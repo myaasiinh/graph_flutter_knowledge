@@ -1,3 +1,7 @@
+## 0.0.1+6
+
+* 🖼️ **Bugfix**: Fixed broken image tags in README.md caused by pub.dev's Markdown parser.
+
 ## 0.0.1+5
 
 * 🖼️ **Documentation**: Updated screenshot links in `README.md` to GitHub assets.

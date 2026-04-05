@@ -1,6 +1,6 @@
 name: graph_flutter_knowledge
 description: A beautiful, lightweight Force-Directed Knowledge Graph widget for Flutter. Perfect for AI, RAG, and relationship visualization.
-version: 0.0.1+5
+version: 0.0.1+6
 
 homepage: https://github.com/myaasiinh/graph_flutter_knowledge
 repository: https://github.com/myaasiinh/graph_flutter_knowledge
