@@ -2,11 +2,9 @@
 
 A beautiful, lightweight, and highly customizable **Force-Directed Graph** widget for Flutter. Designed to visualize complex relationships, AI knowledge bases, and neural networks with a premium aesthetic.
 
-![Screenshot 1](screnshoot/image.png)
-
-![Screenshot 2](screnshoot/image-copy.png)
-
-![Screenshot 3](screnshoot/image-copy2.png)
+<img width="621" height="987" alt="Image" src="https://github.com/user-attachments/assets/89a70cd7-d1f8-461a-8a7f-2b120caa8e80" />
+<img width="619" height="982" alt="Image" src="https://github.com/user-attachments/assets/1ee60fb8-3a44-4cd3-aa4c-1b96b15b5919" />
+<img width="622" height="981" alt="Image" src="https://github.com/user-attachments/assets/b60ebe7f-7c8e-47a5-90b4-40d9ecc621e3" />
 
 ## 🎥 Demo Video
 
@@ -32,7 +30,7 @@ Add the following to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  graph_flutter_knowledge: ^0.0.1
+  graph_flutter_knowledge: ^0.0.1+5
 ```
 
 ### 2. Usage

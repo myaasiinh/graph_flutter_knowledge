@@ -1,3 +1,7 @@
+## 0.0.1+5
+
+* 🖼️ **Documentation**: Updated screenshot links in `README.md` to GitHub assets.
+
 ## 0.0.1+4
 
 * 📦 **Rebranding**: Finalized package rename to `graph_flutter_knowledge`.
