@@ -1,3 +1,9 @@
+## 0.0.1+3
+
+* 📦 **Rebranding**: Complete package rename and class refactoring from `flutter_knowledge_graph` to `flutter_graph`.
+* 📜 **License**: Added MIT License to the repository.
+* 🚀 **README & CHANGELOG**: Updated documentation to reflect the new package structure and naming convention.
+
 ## 0.0.1+2
 
 * ✨ **Layout Variety**: Added `layoutSeed` to `GraphConfiguration` for deterministic yet unique graph layouts via query hashing.
