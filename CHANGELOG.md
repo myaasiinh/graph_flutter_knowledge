@@ -1,3 +1,7 @@
+## 0.0.1+8
+
+* 🖼️ **Documentation**: Updated screenshot links in `README.md` to GitHub assets.
+
 ## 0.0.1+7
 
 * 🖼️ **Documentation**: Updated screenshot links in `README.md` to GitHub assets.
