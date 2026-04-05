@@ -1,3 +1,7 @@
+## 0.0.1+4
+
+* 📦 **Rebranding**: Finalized package rename to `graph_flutter_knowledge`.
+
 ## 0.0.1+3
 
 * 📦 **Rebranding**: Complete package rename and class refactoring from `flutter_knowledge_graph` to `graph_flutter_knowledge`.
