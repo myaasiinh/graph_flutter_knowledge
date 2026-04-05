@@ -32,7 +32,7 @@ Add the following to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  graph_flutter_knowledge: ^0.0.1+7
+  graph_flutter_knowledge: ^0.0.1+8
 ```
 
 ### 2. Usage
