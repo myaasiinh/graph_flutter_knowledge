@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_graph/flutter_graph.dart';
+import 'package:graph_flutter_knowledge/graph_flutter_knowledge.dart';
 
 void main() {
   test('GraphNode and GraphEdge model instantiation', () {

@@ -1,6 +1,6 @@
 import 'dart:math' as math;
 import 'package:flutter/material.dart';
-import 'package:flutter_graph/flutter_graph.dart';
+import 'package:graph_flutter_knowledge/models/graph_models.dart';
 
 /// A service that simulates a massive knowledge base (millions of records logically)
 /// but filters and returns only the most relevant subset (Top 10) for UI display.

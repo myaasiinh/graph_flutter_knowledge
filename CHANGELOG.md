@@ -1,6 +1,6 @@
 ## 0.0.1+3
 
-* 📦 **Rebranding**: Complete package rename and class refactoring from `flutter_knowledge_graph` to `flutter_graph`.
+* 📦 **Rebranding**: Complete package rename and class refactoring from `flutter_knowledge_graph` to `graph_flutter_knowledge`.
 * 📜 **License**: Added MIT License to the repository.
 * 🚀 **README & CHANGELOG**: Updated documentation to reflect the new package structure and naming convention.
 
@@ -19,7 +19,7 @@
 
 ## 0.0.1
 
-* Initial release of `flutter_graph`.
+* Initial release of `graph_flutter_knowledge`.
 * Lightweight Force-Directed Graph implementation using `CustomPainter`.
 * Advanced node positioning using Fruchterman-Reingold algorithm.
 * Support for customizable physics (repulsion, attraction, cooling).

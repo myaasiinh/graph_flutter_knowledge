@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_graph/flutter_graph.dart';
+import 'package:graph_flutter_knowledge/configs/graph_configuration.dart';
+import 'package:graph_flutter_knowledge/models/graph_models.dart';
+import 'package:graph_flutter_knowledge/widgets/graph_widget.dart';
 import 'data/mock_graph_service.dart';
 
 void main() {
@@ -12,7 +14,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'flutter_graph Demo',
+      title: 'graph_flutter_knowledge Demo',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.teal),

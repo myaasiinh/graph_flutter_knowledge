@@ -32,7 +32,7 @@ Add the following to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  flutter_graph: ^0.0.1
+  graph_flutter_knowledge: ^0.0.1
 ```
 
 ### 2. Usage
@@ -40,7 +40,7 @@ dependencies:
 To display a graph, simply provide a list of `GraphNode` and `GraphEdge`. The widget handles the physics simulation automatically.
 
 ```dart
-import 'package:flutter_graph/flutter_graph.dart';
+import 'package:graph_flutter_knowledge/graph_flutter_knowledge.dart';
 
 GraphWidget(
   nodes: [

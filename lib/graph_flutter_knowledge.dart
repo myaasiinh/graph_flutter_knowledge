@@ -1,4 +1,4 @@
-library flutter_graph;
+library graph_flutter_knowledge;
 
 export 'models/graph_models.dart';
 export 'configs/graph_configuration.dart';
